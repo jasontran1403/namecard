@@ -7,11 +7,13 @@ export default function App() {
   return (
     <StatusProvider>
       <Router>
+        {/* Home luôn luôn hiển thị */}
+        <Home />
         <Routes>
-          {/* Route động */}
+          {/* Route động cho download */}
           <Route path="/:slug" element={<VcfDownload />} />
           {/* Trang chủ */}
-          <Route path="/" element={<Home />} />
+          <Route path="/" element={null} />
         </Routes>
       </Router>
     </StatusProvider>
