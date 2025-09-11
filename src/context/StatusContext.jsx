@@ -3,7 +3,7 @@ import { createContext, useContext, useState } from "react";
 const StatusContext = createContext();
 
 export function StatusProvider({ children }) {
-  const [status, setStatus] = useState("📇 Vui lòng nhập đường dẫn namecard...");
+  const [status, setStatus] = useState("📇 Invalid url for namecard information...");
 
   return (
     <StatusContext.Provider value={{ status, setStatus }}>
