@@ -18,6 +18,7 @@ export default function VcfDownload() {
       try {
         // kiểm tra file tồn tại bằng HEAD request
         const res = await fetch(fileUrl, { method: "HEAD" });
+        console.log(res);
         if (res.ok) {
           // chỉ khi file tồn tại mới tải
           const link = document.createElement("a");
