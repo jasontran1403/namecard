@@ -25,12 +25,14 @@ export default function VcfDownload() {
       return;
     }
 
-    const fileUrl = `/vcf/${slug}.vcf`;
+    // Thêm timestamp để tránh cache cả file VCF
+    const timestamp = Date.now();
+    const fileUrl = `/vcf/${slug}.vcf?ts=${timestamp}`;
 
     const startDownload = () => {
       const link = document.createElement("a");
       link.href = fileUrl;
-      link.download = `${slug}.vcf`;
+      link.download = `${slug}_${timestamp}.vcf`; // Thêm timestamp vào tên file
       document.body.appendChild(link);
       link.click();
       document.body.removeChild(link);
