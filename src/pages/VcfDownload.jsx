@@ -12,6 +12,7 @@ export default function VcfDownload() {
     "cpnailsspa",
     "saukvillage",
     "tinytotsacademy",
+    "combination"
   ];
 
   useEffect(() => {
