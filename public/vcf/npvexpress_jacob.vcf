@@ -2,7 +2,7 @@ BEGIN:VCARD
 VERSION:3.0
 FN:Jacob Huynh Duy Linh
 N:Jacob Huynh Duy Linh;;;;
-NOTE:Managing Director\nNPV Express & Logistics
+TITLE:Managing Director\n
 item1.TEL;TYPE=VOICE:+84-903-910-430
 item1.X-ABLabel:Personal Mobile
 item2.EMAIL:linh-hd@npvexpress.com
