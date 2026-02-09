@@ -1,26 +1,21 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Managing Director
-ORG:Jacob Huynh Duy Linh
-
+FN:Jacob Huynh Duy Linh
+N:Huynh Duy Linh;Jacob;;;
+TITLE:Managing Director
+ORG:NPV Express & Logistics
 item1.TEL;TYPE=VOICE:+84-903-910-430
 item1.X-ABLabel:Personal Mobile
-
 item2.EMAIL:linh-hd@npvexpress.com
 item2.X-ABLabel:Personal Email
-
 item3.TEL;TYPE=VOICE:+84-28-3848-7858
 item3.X-ABLabel:Tel HCMC
-
 item4.ADR:;;4FL - 29 Thang Long Street;Tan Son Nhat Ward;HCMC;;Vietnam
 item4.X-ABLabel:Addr HCMC
-
 item5.TEL;TYPE=VOICE:+84-24-6254-1048
 item5.X-ABLabel:Tel Hanoi
-
 item6.ADR:;;39/260 Doi Can St.;Ngoc Ha Ward;Ha Noi;;Vietnam
 item6.X-ABLabel:Addr Hanoi
-
 item7.EMAIL:general@npvexpress.com
 item7.X-ABLabel:NPV Express & Logistics Email
 
