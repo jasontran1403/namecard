@@ -15,7 +15,8 @@ export default function VcfDownload() {
     "combination",
     "npvexpress",
     "npvexpress_jacob",
-    "nhatnam_finefoods"
+    "nhatnam_finefoods",
+    "finlead"
   ];
 
   useEffect(() => {
