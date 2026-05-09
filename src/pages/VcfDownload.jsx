@@ -16,7 +16,9 @@ export default function VcfDownload() {
     "npvexpress",
     "npvexpress_jacob",
     "nhatnam_finefoods",
-    "finlead"
+    "finlead",
+    "acb-en",
+    "acb-vi"
   ];
 
   useEffect(() => {
