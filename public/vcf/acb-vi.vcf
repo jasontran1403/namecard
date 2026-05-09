@@ -9,7 +9,7 @@ item2.TEL;TYPE=WORK,VOICE:+84-283-511-910,113
 item2.X-ABLabel:SĐT Văn phòng
 item3.EMAIL:longhht@acb.com.vn
 item3.X-ABLabel:Email Cá nhân
-item4.ADR;TYPE=WORK:;;159B - 159C Chu Văn Ăn;Phường Bình Thạnh;HCMC;;Việt Nam
+item4.ADR;TYPE=WORK:;;159B - 159C Chu Văn An;Phường Bình Thạnh;HCMC;;Việt Nam
 item4.X-ABLabel:Địa chỉ
 item5.URL:https://acb.com.vn
 item5.X-ABLabel:Website
