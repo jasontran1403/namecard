@@ -18,7 +18,9 @@ export default function VcfDownload() {
     "nhatnam_finefoods",
     "finlead",
     "acb-en",
-    "acb-vi"
+    "acb-vi",
+    "originaltaste_msngan",
+    "originaltaste_mrlam",
   ];
 
   useEffect(() => {
