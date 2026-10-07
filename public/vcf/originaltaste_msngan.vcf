@@ -1,9 +1,16 @@
 BEGIN:VCARD
 VERSION:3.0
 FN:Nguyễn Hoàng Thiên Ngân
-ORG:Original Taste
-TEL;TYPE=WORK,VOICE:+1-773-996-7292
-ADR:;;447 Huỳnh Văn Bánh;Phú Nhuận;TP. Hồ Chí Minh;;Việt Nam
-EMAIL:ngannguyen@originaltaste.vn
-PHOTO;ENCODING=b;TYPE=JPEG:
+N:Nguyễn Hoàng Thiên Ngân;;;;
+TITLE:Original Taste\nRetail Operations Manager
+item1.TEL;TYPE=VOICE:+84-389-259-966
+item1.X-ABLabel:Personal Mobile
+item2.ADR;TYPE=WORK:;;447 Huỳnh Văn Bánh;Phú Nhuận;TP. Hồ Chí Minh;;Việt Nam
+item2.X-ABLabel:Addr
+item3.EMAIL;TYPE=WORK:thienngannh2709@gmail.com
+item3.X-ABLabel:Email
+item4.URL:https://www.facebook.com/OriginalTasteSausage?locale=vi_VN
+item4.X-ABLabel:Fanpage
+item5.URL:https://zalo.me/0389259966
+item5.X-ABLabel:Zalo
 END:VCARD

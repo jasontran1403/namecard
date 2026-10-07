@@ -1,9 +1,16 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Nguyễn Thiên Sơn Lâm
-ORG:Original Taste
-TEL;TYPE=WORK,VOICE:+1-773-996-7292
-ADR:;;447 Huỳnh Văn Bánh;Phú Nhuận;TP. Hồ Chí Minh;;Việt Nam
-EMAIL:lamnguyen@originaltaste.vn
-PHOTO;ENCODING=b;TYPE=JPEG:
+FN:Nguyễn Thiện Sơn Lâm
+N:Nguyễn Thiện Sơn Lâm;;;;
+TITLE:Original Taste\nCEO
+item1.TEL;TYPE=VOICE:+84-918-379-048
+item1.X-ABLabel:Personal Mobile
+item2.ADR;TYPE=WORK:;;447 Huỳnh Văn Bánh;Phú Nhuận;TP. Hồ Chí Minh;;Việt Nam
+item2.X-ABLabel:Addr
+item3.EMAIL;TYPE=WORK:lam.nguyen@original-taste.vn
+item3.X-ABLabel:Email
+item4.URL:https://zaloapp.com/qr/p/15cmb4hjodvbj?src=qr
+item4.X-ABLabel:Fanpage
+item5.URL:https://zalo.me/0918379048
+item5.X-ABLabel:Zalo
 END:VCARD
